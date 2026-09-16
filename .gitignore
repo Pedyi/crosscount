@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+*.tar.gz
+*.txt.gz
+.ipynb_checkpoints/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.pdf
